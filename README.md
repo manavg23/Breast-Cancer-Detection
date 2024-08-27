@@ -1,4 +1,4 @@
-Here's a sample `README.md` for your GitHub repository:
+
 
 ```markdown
 # Breast Cancer Detection
