@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-Make sure to adjust the sections like "Clone the Repository" with the correct repository URL, and replace placeholder content with actual project details if needed.
+
